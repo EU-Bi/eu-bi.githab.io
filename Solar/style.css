@@ -1,0 +1,518 @@
+header.header{
+    height: 900px;
+    width: 100%;
+    background: url(/Solar/img/фон.jpg) center top no-repeat ;
+    padding-top: 70px;
+           
+}
+.logo{
+    background: url(/Solar/img/лого\ \(1\)\ 1.svg) no-repeat;
+    height: 50px;
+    width: 180px;
+    margin: 0 auto; 
+     
+}
+header h3{
+    padding-top: 140px;
+    color: #FFFFFF;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+}
+header h1{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 87px;
+    font-variant: small-caps;
+    color: #FFFFFF;
+    text-align: center;
+}
+header h2{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 57px;
+    color: #FFFFFF;
+    text-align: center;
+}
+header div.button{
+    background: url(/Solar/img/Group\ 25.svg) no-repeat;
+    height: 100px;
+    width: 100px;
+    margin: 50px auto;
+}
+.button-on::before{
+    display: block;
+    content: "Записаться на консультацию";
+    color: #FFFFFF;
+    text-align: center;
+    margin: 117px auto;
+    justify-content: center;
+    border-radius: 75px;
+    
+    background: transparent ;
+}
+
+.webchats{
+    margin: 250px auto;
+    display: flex;
+    justify-content: center;
+}
+  
+.center{
+    margin: 0 auto;
+    width: 170px;
+    height: 30px;
+}
+.tg{
+    display: block;
+    background: url(/Solar/img/telegram.svg) no-repeat;
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    
+    
+}
+.whatsapp{
+    display: block;
+    background: url(/Solar/img/whatsapp.svg) no-repeat;
+    width: 30px;
+    height: 30px;
+    
+}
+.fb{
+    display: block;
+    background: url(/Solar/img/facebook.svg) no-repeat;
+    width: 30px;
+    height: 30px;
+    
+}
+.inst{
+    display: block;
+    background: url(/Solar/img/instagram.svg) no-repeat;
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    
+}
+.art {
+    padding-top: 80px;
+    margin: 0 auto;
+    width: 1200px;
+    height: 770px;
+    background: center top ;
+    
+}
+.picture-batery{
+    background: url(/Solar/img/batery.jpg) center top no-repeat;
+    width: 600px;
+    height: 500px;
+    float: right;
+    
+}
+.art h2{
+    top: 0;
+    left: 0;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    color: #868585;
+    padding-bottom: 60px;
+}
+.paragraf{
+    width: 510px;
+    height: 120px;
+    display: block;
+    
+}
+.wrap{
+    display: block;
+    float: left;
+    
+}
+.paragraf p{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #303030;
+}
+.paragraf h3{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #303030;
+}
+.img{
+    background: url(/Solar/img/home.jpg) no-repeat center top;
+    height: 525px;
+    width: 600px ;
+    float: right
+}
+.left-zone{
+    float: left;
+
+}
+.sections{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    top: 0;
+    left: 0;
+    padding-bottom: 125px; 
+   
+}
+.sections a{
+    padding-right: 40px;
+    text-decoration: none;
+    color: #303030;
+}
+div.btn{
+   padding-top: 90px;
+
+}
+div.left{
+    display: inline-block;
+    background: url(/Solar/img/Arrow\ left.svg) center top no-repeat;
+    width: 40px;
+    height: 10px;
+    margin-right:20px ;
+}
+div.right{
+    display: inline-block;
+    background: url(/Solar/img/Arrow\ right.svg) no-repeat;
+    width: 40px;
+    height: 10px;
+}
+.image{
+    background: url(/Solar/img/small-home.jpg) center top no-repeat;
+    height: 235px;
+    width: 200px ;
+}
+.info{
+    display: flex;
+}
+.content{
+    width: 235px;
+    height: 115px;
+    padding-left: 40px;
+}
+.items{
+    width: 510px;
+    height: 215px;
+        
+}
+.bold-text{
+    display: block;
+    width: 600px;
+    height: 130px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #303030;
+}
+.right-zone{
+    float: right;
+}
+.wrap-green{
+    display: inline-block;
+}
+.item{
+    width: 235px;
+    height: 110px;
+    float: left;  
+    padding-right: 20px;
+    padding-bottom: 20px; 
+}
+.item h3{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #303030;
+    padding-bottom: 5px;
+}
+.item p{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #303030;
+}
+.content p{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #303030;
+}
+.mid-box{
+    margin: 150px auto;
+    width: auto;
+    height: 500px;
+    background: url(/Solar/img/фон-центр.jpg) top center no-repeat;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.wrapp{
+    
+    margin: 0 auto;
+    width: 675px;
+    height: 230px ;
+    padding-top: 130px;
+    
+}
+.citation{
+    color:#FFFFFF;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 57px;
+    text-align: center;
+}
+.wrapper{
+    margin: 0 auto;
+    width: 1200px;
+    
+}
+.clients{
+    width: 1200px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+.header{
+    top: 0;
+    left: 0;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    color: #868585;
+    padding-bottom: 60px;
+}
+.img-clients{
+    background: url(/Solar/img/клиенты.jpg) no-repeat;
+    width: 510px;
+    height: 370px;
+}
+.right-clients{
+    padding: 90px 0 0 90px;
+}
+.right-clients h3{
+    display: block;
+    width: 480px;
+    height: 50px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #303030;
+    padding-bottom: 30px;
+}
+.right-clients ul{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #303030;
+    padding-left: 50px;
+    padding-bottom: 65px;
+    
+}
+.right-clients li{
+    padding-bottom: 15px;
+}
+.btn-clients{
+    background: url(/Solar/img/els.svg);
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    
+}
+.btn-client-slider{
+    padding-top: 32px;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto; 
+}
+.five-steps{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.steps-content{
+    width: 510px;
+    height: 605px;
+    padding-right: 90px;
+}
+.img-five-steps{
+    background: url(/Solar/img/5steps.png) no-repeat;
+    width: 600px;
+    height: 730px;
+    
+}
+.steps-content .numerous{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #868585;
+    padding-bottom: 10px;
+}
+.steps-content h3{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #303030;
+}
+.steps-content p{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #303030;
+    padding-bottom: 30px;
+}
+.fotter-wrap{
+    margin: 150px auto;
+    width: auto;
+    height: 730px;
+    background: url(/Solar/img/footer.png) center top no-repeat;
+}
+.form{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 70px
+}
+.head-footer{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    color: #FFFFFF;
+    padding-bottom: 60px;
+}
+.submit-client{
+    padding-right: 90px;
+}
+.item-contact{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+    padding-bottom: 30px;
+}
+.form-all{
+    position: relative;
+}
+
+.phone-input,
+.name-input{
+    position: absolute;
+    top: 0;
+    z-index: -1;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    transition: 0.3s;
+}
+
+.inputs-n{
+    width: 510px;
+    height: 20px;
+    padding: 0 0 10px 0;
+    margin: 0 0 60px 0;
+    border: none;
+    border-bottom: 1px solid #FFFFFF;
+    background-color: transparent;
+    color: #FFFFFF;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+.btn-footer{
+    background: url(/Solar/img/Group\ 25.svg) no-repeat;
+    width: 100px;
+    height: 100px;
+}
+.btn-footer-on::before{
+    display: flex;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 75px;
+    padding-top: 50px;
+    background: transparent ;
+    content: "Оставить заявку";
+    color: white;
+}
+.bottom{
+    
+    width: 1200px;
+    margin: 150px auto;
+    display: flex;
+    flex-direction: row;
+}
+.foot-web{
+    
+    right: 0;
+    display: flex;
+    flex-direction: row;
+}
+.foot-lable{
+    background: url(/Solar/img/лого\ \(1\)\ 1.svg);
+    width: 180px;
+    height: 50px;
+    margin: 0 auto;
+}
+.politics{
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
