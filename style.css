@@ -1,12 +1,12 @@
 header.header{
     height: 900px;
     width: 100%;
-    background: url(/Solar/img/фон.jpg) center top no-repeat ;
+    background: url(/img/фон.jpg) center top no-repeat ;
     padding-top: 70px;
            
 }
 .logo{
-    background: url(/Solar/img/лого\ \(1\)\ 1.svg) no-repeat;
+    background: url(/img/лого\ \(1\)\ 1.svg) no-repeat;
     height: 50px;
     width: 180px;
     margin: 0 auto; 
@@ -42,7 +42,7 @@ header h2{
     text-align: center;
 }
 header div.button{
-    background: url(/Solar/img/Group\ 25.svg) no-repeat;
+    background: url(/img/Group\ 25.svg) no-repeat;
     height: 100px;
     width: 100px;
     margin: 50px auto;
@@ -72,7 +72,7 @@ header div.button{
 }
 .tg{
     display: block;
-    background: url(/Solar/img/telegram.svg) no-repeat;
+    background: url(/img/telegram.svg) no-repeat;
     width: 30px;
     height: 30px;
     padding: 10px;
@@ -88,14 +88,14 @@ header div.button{
 }
 .fb{
     display: block;
-    background: url(/Solar/img/facebook.svg) no-repeat;
+    background: url(/img/facebook.svg) no-repeat;
     width: 30px;
     height: 30px;
     
 }
 .inst{
     display: block;
-    background: url(/Solar/img/instagram.svg) no-repeat;
+    background: url(/img/instagram.svg) no-repeat;
     width: 30px;
     height: 30px;
     padding: 10px;
@@ -110,7 +110,7 @@ header div.button{
     
 }
 .picture-batery{
-    background: url(/Solar/img/batery.jpg) center top no-repeat;
+    background: url(/img/batery.jpg) center top no-repeat;
     width: 600px;
     height: 500px;
     float: right;
@@ -155,7 +155,7 @@ header div.button{
     color: #303030;
 }
 .img{
-    background: url(/Solar/img/home.jpg) no-repeat center top;
+    background: url(/img/home.jpg) no-repeat center top;
     height: 525px;
     width: 600px ;
     float: right
@@ -186,19 +186,19 @@ div.btn{
 }
 div.left{
     display: inline-block;
-    background: url(/Solar/img/Arrow\ left.svg) center top no-repeat;
+    background: url(/img/Arrow\ left.svg) center top no-repeat;
     width: 40px;
     height: 10px;
     margin-right:20px ;
 }
 div.right{
     display: inline-block;
-    background: url(/Solar/img/Arrow\ right.svg) no-repeat;
+    background: url(/img/Arrow\ right.svg) no-repeat;
     width: 40px;
     height: 10px;
 }
 .image{
-    background: url(/Solar/img/small-home.jpg) center top no-repeat;
+    background: url(/img/small-home.jpg) center top no-repeat;
     height: 235px;
     width: 200px ;
 }
@@ -268,7 +268,7 @@ div.right{
     margin: 150px auto;
     width: auto;
     height: 500px;
-    background: url(/Solar/img/фон-центр.jpg) top center no-repeat;
+    background: url(/img/фон-центр.jpg) top center no-repeat;
     display: flex;
     justify-content: center;
     flex-direction: row;
@@ -313,7 +313,7 @@ div.right{
     padding-bottom: 60px;
 }
 .img-clients{
-    background: url(/Solar/img/клиенты.jpg) no-repeat;
+    background: url(/img/клиенты.jpg) no-repeat;
     width: 510px;
     height: 370px;
 }
@@ -347,7 +347,7 @@ div.right{
     padding-bottom: 15px;
 }
 .btn-clients{
-    background: url(/Solar/img/els.svg);
+    background: url(/img/els.svg);
     width: 100px;
     height: 100px;
     margin: 0 auto;
@@ -371,7 +371,7 @@ div.right{
     padding-right: 90px;
 }
 .img-five-steps{
-    background: url(/Solar/img/5steps.png) no-repeat;
+    background: url(/img/5steps.png) no-repeat;
     width: 600px;
     height: 730px;
     
@@ -406,7 +406,7 @@ div.right{
     margin: 150px auto;
     width: auto;
     height: 730px;
-    background: url(/Solar/img/footer.png) center top no-repeat;
+    background: url(/img/footer.png) center top no-repeat;
 }
 .form{
     width: 1200px;
@@ -472,7 +472,7 @@ div.right{
     color: #FFFFFF;
 }
 .btn-footer{
-    background: url(/Solar/img/Group\ 25.svg) no-repeat;
+    background: url(/img/Group\ 25.svg) no-repeat;
     width: 100px;
     height: 100px;
 }
@@ -502,7 +502,7 @@ div.right{
     flex-direction: row;
 }
 .foot-lable{
-    background: url(/Solar/img/лого\ \(1\)\ 1.svg);
+    background: url(/img/лого\ \(1\)\ 1.svg);
     width: 180px;
     height: 50px;
     margin: 0 auto;
