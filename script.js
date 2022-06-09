@@ -1,25 +1,4 @@
-function createUserCard(user) {
-    if (!user) return;
-  
-    // destructuring user object
-    const {
-      name: {first: firstName, last: lastName},
-      gender,
-      phone,
-      email = 'TEST',
-      picture: {thumbnail: avatar}
-    } = user;
-  
-    return `<div class="card">
-        <img class="card__image" src="${avatar}" alt="${firstName} ${lastName}"/>
-        <div class="card__info info">
-          <h2 class="info__name">${firstName} ${lastName}</h2>
-          <p class="info__text">${phone}</p>
-          <p class="info__text">${email}</p>
-          <p class="info__text">${gender}</p>
-        </div>
-      </div>`;
-  }
+
 
   
 
